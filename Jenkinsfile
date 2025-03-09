@@ -36,7 +36,7 @@ pipeline {
                                     rm -rf terra-assign
                                 fi
                                 echo "Cloning the repository..."
-                                git clone "https://github.com/santhosh0811/terra-assign.git"
+                                git clone "https://github.com/rajesssssh/terra-assign.git"
                             '''
                         }
                     }
